@@ -2,8 +2,9 @@
 
 * Information are either in english and / or Japanese.
 * Information gathered from the official websites and / or Anime News Network.
+* "Manga" and "Anime" may be the same.
 * Feel free to send me a pull request with the correct information.
-* "/" denotes breaklines
+* " / " denotes breaklines
 
 
 ## B
@@ -17,8 +18,8 @@
 ## D
 
 * **D-Frag!**
-  * Manga: (C)Tomoya Haruno
-  * Anime: <http://www.d-fragments.net/common/images/copyright.png>  © 薫轟董矢/轢式会杜KADOKAWA メディアファクト'丿一刊丿ディ一ふらぐー鸞作賽鷺会 (Needs help encoding)
+  * Manga: © Tomoya Haruno
+  * Anime: © Tomoya Haruno/PUBLISHED BY KADOKAWA CORPORATION MEDIAFACTORY/D-FragmentsProject
  
 ## F
 
@@ -43,12 +44,21 @@
 
 * **Magical Warfare** - ©スズキヒサシ／株式会社KADOKAWA　メディアファクトリー刊／すばる魔法学院
 * **Maken-ki Two** - © 2013 Hiromitsu Takeda/PUBLISHED BY KADOKAWA Fujimishobo/MAKEN-KI TWO Partners
-* **Mikakunin DE Shinkoukei** - 
+* **Mikakunin DE Shinkoukei** - © 荒井チェリー／一迅社・未確認で進行形製作委員会
 
 ## N
 
+* **Nisekoi** - ©古味直志／集英社・アニプレックス・シャフト・ＭＢＳ
+* **Nobunaga the Fool** - © 河森正治・サテライト／ALC／GP／ノブナガ・ザ・フール製作委員会
+* **Nobunagun** - ©久正人 ／アース・スター エンターテイメント・「ノブナガン製作委員会」
+* **Noragami** - © Adachitoka/Kodansha/Noragami Production Committee
+* **No-rin** - ©2014 白鳥士郎・SBクリエイティブ／のうりんプロジェクト
 
+## S
 
-## O
+* _**Saikin, Imouto no Yousu ga Chotto Okashiinda ga.**_ - © Mari Matsuzawa, Kadokawa Fujimi Shobo/ImoCho. Production Committee
+* **Saki: Zenkoku-hen** - ©小林 立/スクウェアエニックス・咲全国編製作委員会
+* **Sakura Trick** - ©タチ・芳文社／桜Trick製作委員会
+* **Seitokai Yakuindomo*** - ©氏家ト全・講談社/桜才学園生徒会新室
 
-## I
+## 
