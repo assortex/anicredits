@@ -4,7 +4,7 @@
 * Information gathered from the official websites and / or Anime News Network.
 * "Manga" and "Anime" may be the same.
 * Feel free to send me a pull request with the correct information.
-* " / " denotes breaklines
+* " / " may denote breaklines
 
 ---
 
