@@ -1,4 +1,4 @@
-# Winter 2014 Anime
+# Spring 2014 Anime
 
 * Information are either in english and / or Japanese.
 * Information gathered from the official websites and / or Anime News Network.
@@ -20,14 +20,14 @@ Template:
 
 ## B
 
-* **** - 
+* **Blade and Soul** - © NCSoft, Blade & Soul Anime Production Committee
 
 ## C
 
 
 ## D
 
-
+* **Dragonar Academy** - ©2014 Shiki Mizuchi, PUBLISHED BY KADOKAWA CORPORATION MEDIAFACTORY/Dragonar Project
  
 ## F
 
@@ -42,7 +42,9 @@ Template:
 
 ## I
 
+## K
 
+* **Kindaichi Case Files Returns** - © Seimaru Amagi, Fumiya Sato, Kodansha/YTV, Toei Animation
 
 ## M
 
@@ -54,7 +56,7 @@ Template:
 
 ## S
 
-
+* **selector infected WIXOSS** - ©LRIG/Project Selector
 
 ## T
 
