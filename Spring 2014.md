@@ -25,7 +25,7 @@ Template:
 * **Blade and Soul** - © NCSoft, Blade & Soul Anime Production Committee
 
 ## C
-
+* **Captain Earth** - ©BONES/CAPTAIN EARTH COMMITEE, MBS
 
 ## D
 
@@ -45,9 +45,18 @@ Template:
 
 ## I
 
+## J
+
+* **JoJo's Bizaare Adventure** - ©荒木飛呂彦/集英社・ジョジョの奇妙な冒険製作委員会
+
 ## K
 
+* **Kamigami no Asobi** - Copyright (C) BROCCOLI
 * **Kindaichi Case Files Returns** - © Seimaru Amagi, Fumiya Sato, Kodansha/YTV, Toei Animation
+
+## L
+
+* **La Corda d'Oro -Blue Sky-** - © Yuki Kure, Hakusensha, KOEI Co., Ltd./Corda Production Committee
 
 ## M
 
@@ -65,7 +74,8 @@ Template:
 
 ## T
 
-
+* **The irregular at magic high school** - © Tsutomu Satou / Kadokawa ASCII Media Works Publication / Mahōka Kōkō Production Committee
+* **The World is Still Beautiful** - © Dai Shiina, Hakusensha/Ooshitsu Kaihō Magazine Editorial Department
 
 ## W
 
