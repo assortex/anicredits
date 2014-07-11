@@ -18,6 +18,8 @@ Template:
 
 ## A
 
+
+
 ## B
 
 * **Blade and Soul** - © NCSoft, Blade & Soul Anime Production Committee
@@ -27,6 +29,7 @@ Template:
 
 ## D
 
+* **Daimidaler the Sound Robot** - ©Asaki Nakama/ENTERBRAIN/PENGUIN EMPIRE
 * **Dragonar Academy** - ©2014 Shiki Mizuchi, PUBLISHED BY KADOKAWA CORPORATION MEDIAFACTORY/Dragonar Project
  
 ## F
@@ -53,7 +56,9 @@ Template:
 ## N
 
 
+## R
 
+* **Riddle Story of Devil (Akuma no Riddle)** - ©高河ゆん・南方純／ＫＡＤＯＫＡＷＡ刊／「悪魔のリドル」製作委員会
 ## S
 
 * **selector infected WIXOSS** - ©LRIG/Project Selector
