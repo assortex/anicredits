@@ -18,11 +18,12 @@ Template:
 
 ## A
 
-
+* **Abarenbō Rikishi!! Matsutarō** - © Tetsuya Chiba/TV Asahi, Toei Animation © C/T, T
 
 ## B
 
 * **Blade and Soul** - © NCSoft, Blade & Soul Anime Production Committee
+* **Brynhildr in the Darkness** - © Lynn Okamoto/Shueisha, Brynhildr in the Darkness Production Committee
 
 ## C
 * **Captain Earth** - ©BONES/CAPTAIN EARTH COMMITEE, MBS
@@ -31,7 +32,9 @@ Template:
 
 * **Daimidaler the Sound Robot** - ©Asaki Nakama/ENTERBRAIN/PENGUIN EMPIRE
 * **Dragonar Academy** - ©2014 Shiki Mizuchi, PUBLISHED BY KADOKAWA CORPORATION MEDIAFACTORY/Dragonar Project
- 
+
+
+
 ## F
 
 
@@ -41,7 +44,7 @@ Template:
 
 ## H
 
-
+* **Haikyuu!!** - © Haruichi Furudate, Shueisha/Haikyuu!! Production Committee
 
 ## I
 
@@ -65,6 +68,10 @@ Template:
 ## N
 
 
+## O
+
+* **One Week Friends** - ©MATCHA HAZUKI/SQUARE ENIX
+
 ## R
 
 * **Riddle Story of Devil (Akuma no Riddle)** - ©高河ゆん・南方純／ＫＡＤＯＫＡＷＡ刊／「悪魔のリドル」製作委員会
@@ -75,6 +82,7 @@ Template:
 ## T
 
 * **The irregular at magic high school** - © Tsutomu Satou / Kadokawa ASCII Media Works Publication / Mahōka Kōkō Production Committee
+* **The Kawai Complex Guide to Manors and Hostel Behavior** - ©宮原るり・少年画報社／委員会はみんな河合荘
 * **The World is Still Beautiful** - © Dai Shiina, Hakusensha/Ooshitsu Kaihō Magazine Editorial Department
 
 ## W
