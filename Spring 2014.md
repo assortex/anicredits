@@ -35,6 +35,7 @@ Template:
 ## D
 
 * **Daimidaler the Sound Robot** - ©Asaki Nakama/ENTERBRAIN/PENGUIN EMPIRE
+* **Dai - Shogun - Great Revolution** - ©2014 Project-D
 * **Date A Live II** - © 2013 Koushi Tachibana, Tsunako/Fujimi Shobo/Date A Live Production Committee
 * **Dragonar Academy** - ©2014 Shiki Mizuchi, PUBLISHED BY KADOKAWA CORPORATION MEDIAFACTORY/Dragonar Project
 
