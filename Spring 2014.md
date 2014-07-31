@@ -19,21 +19,24 @@ Template:
 ## A
 
 * **Abarenbō Rikishi!! Matsutarō** - © Tetsuya Chiba/TV Asahi, Toei Animation © C/T, T
+* 
 
 ## B
-
+* **Baby Steps** - © Hikaru Katsuki, Kodansha/NHK, NEP
+* **Black Bullet** - © 2013 Shiden Kanzaki/Kadokawa's ASCII Media Works/Black Bullet Production Committee
 * **Blade and Soul** - © NCSoft, Blade & Soul Anime Production Committee
+* **Break Blade (TV)** - © Yunosuke Yoshinaga, Flex Comix/Broken Blade Production Committee
 * **Brynhildr in the Darkness** - © Lynn Okamoto/Shueisha, Brynhildr in the Darkness Production Committee
 
 ## C
 * **Captain Earth** - ©BONES/CAPTAIN EARTH COMMITEE, MBS
+* **Chaika the Coffin Princess** - © Ichiro Sakaki, Namaniku ATK (Nitroplus)
 
 ## D
 
 * **Daimidaler the Sound Robot** - ©Asaki Nakama/ENTERBRAIN/PENGUIN EMPIRE
+* **Date A Live II** - © 2013 Koushi Tachibana, Tsunako/Fujimi Shobo/Date A Live Production Committee
 * **Dragonar Academy** - ©2014 Shiki Mizuchi, PUBLISHED BY KADOKAWA CORPORATION MEDIAFACTORY/Dragonar Project
-
-
 
 ## F
 
