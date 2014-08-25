@@ -18,50 +18,99 @@ Template:
 
 ## A
 
+* **Ai Mai Mi : Mousou Catastrophe** - 
+* **Akame ga Kill!** - 
+* **Aldnoah.Zero** - 
+* **Ao Haru Ride** - 
+
 ## B
 
-* **** - 
-
-## C
-
+* **Bakumatsu Rock** - 
+* **Barakamon** - 
 
 ## D
 
+* **DRAMAtical Murder** - 
 
- 
 ## F
+
+* **Fate/kaleid liner Prisma☆Illya 2wei!** - 
+* **Free! Eternal Summer** - 
+* **Futsuu no Joshikousei ga [Locodol] Yatte Mita.** - 
 
 
 ## G
 
+* **Gekkan Shoujo Nozaki-kun** - 
+* **Glasslip** - 
 
 
 ## H
 
+* **Hanamonogatari** - 
+* **Hanayamata** - 
 
 
-## I
+## J
+
+* **Jinsei** - 
 
 
+## K
+
+* **Kuroshitsuji: Book of Circus** - 
+
+
+## L
+
+* **Love Stage!!** - 
 
 ## M
 
 
+* **Majimoji Rurumo** - 
+* **Minarai Diva** - 
+* **Momo Kyun Sword** - 
 
 ## N
 
+* **Nobunaga Concerto** - 
+
+## P
+
+
+* **Persona 4 The Golden Animation** - 
+* **Psycho-Pass New Edit Version** - 
+* **Pri Para** - 
+
+
+## R
+
+* **RAIL WARS!** - 
+* **Re:␣Hamatora** - 
+* **Rokujouma no Shinryakusha!?** - 
 
 
 ## S
 
-
+* **Sabagebu!** - 
+* **Seirei Tsukai no Kenbu: Blade Dance** - 
+* **Sengoku Basara: Judge End** - 
+* **Shirogane no Ishi: Argevollen** - 
+* **Shounen Hollywood -Holly Stage for 49-** - 
+* **Space☆Dandy 2** - 
+* **Sword Art Online II** - 
 
 ## T
 
+* **Tokyo ESP** - 
+* **Tokyo Ghoul** - 
 
+## Y
 
-## W
-
+* **Yama no Susume Season 2** - 
 
 ## Z
+
+* **Zankyou no Terror** - 
 
