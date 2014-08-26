@@ -18,36 +18,36 @@ Template:
 
 ## A
 
-* **Ai Mai Mi : Mousou Catastrophe** - 
-* **Akame ga Kill!** - 
-* **Aldnoah.Zero** - 
-* **Ao Haru Ride** - 
+* **Ai Mai Mi : Mousou Catastrophe** - © Choboraunyopomi/Takeshobo
+* **Akame ga Kill!** - © タカヒロ・田代哲也／スクウェアエニックス・「アカメが斬る！」製作委員会
+* **Aldnoah.Zero** - © Olympus Knights/Aniplex, Project AZ
+* **Ao Haru Ride** - © 2014 咲坂伊緒／集英社・「アオハライド」製作委員会
 
 ## B
 
-* **Bakumatsu Rock** - 
-* **Barakamon** - 
+* **Bakumatsu Rock** - © 2014 Marvelous AQL
+* **Barakamon** - ©ヨシノサツキ／スクウェアエニックス・「ばらかもん」製作委員会
 
 ## D
 
-* **DRAMAtical Murder** - 
+* **DRAMAtical Murder** - © Nitroplus／DRAMAtical Murder製作委員会
 
 ## F
 
-* **Fate/kaleid liner Prisma☆Illya 2wei!** - 
-* **Free! Eternal Summer** - 
-* **Futsuu no Joshikousei ga [Locodol] Yatte Mita.** - 
+* **Fate/kaleid liner Prisma☆Illya 2wei!** - ©2014 ひろやまひろし・TYPE-MOON／ＫＡＤＯＫＡＷＡ 角川書店刊／「プリズマ☆イリヤ ツヴァイ！」製作委員会
+* **Free! Eternal Summer** - © Kōji Ōji, Kyoto Animation/Iwasobi High School Swimming Club
+* **Futsuu no Joshikousei ga [Locodol] Yatte Mita.** - ©小杉光太郎・一迅社／流川市ふるさと振興課
 
 
 ## G
 
-* **Gekkan Shoujo Nozaki-kun** - 
-* **Glasslip** - 
+* **Gekkan Shoujo Nozaki-kun** - ©椿いづみ／スクウェアエニックス・「月刊少女野崎くん」製作委員会
+* **Glasslip** - © glasslip project
 
 
 ## H
 
-* **Hanamonogatari** - 
+* **Hanamonogatari** - © NISIOISIN/KODANSHA, ANIPLEX, SHAFT
 * **Hanayamata** - 
 
 
