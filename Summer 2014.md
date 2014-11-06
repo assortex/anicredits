@@ -1,4 +1,4 @@
-# Winter 2014 Anime
+# Summer 2014 Anime
 
 * Information are either in English and / or Japanese.
 * Information gathered from the official websites and / or Anime News Network.
