@@ -8,73 +8,67 @@
 
 ---
 
+## A
+
+* **Absolute Duo** - 
+* **Aldnoah.Zero** - 
+* **Ansatsu Kyoushitsu** - 
 
 ## B
 
-* **** - ©
-
-## C
-
-* **Chuunibyou** - ©
+* **Binan Koukou Chikyuu Bouei-bu Love!** - 
 
 ## D
 
-
- 
-## F
-
-* **Future Card Buddyfight** - © 相棒学園／テレビ愛知
+* **Death Parade** - 
+* **Doamaiger D** - 
+* **Dog Days″** - 
+* **Durarara!! x2 Shou** - 
 
 ## G
 
-* **Gin no Saji 2** - © 荒川弘・小学館／エゾノー祭実行委員会
-
-## H
-
-* **HappinessCharge Precure!** - ©ABC・東映アニメーション
-* **Hamatora**
- * Manga: Copyright © SHUEISHA Inc. All rights reserved.
- * Anime: © カフェノーウェア/ハマトラ製作委員会
-* **Hoozuki no Reitetsu** - © Natsumi Eguchi・KODANSHA／Hozuki no Reitetsu PRODUCT COMMITTEE
-
+* **Go! Princess Precure** - 
+ 
 ## I
 
-* **Inari, Kon Kon** - © 2014 よしだもろへ／KADOKAWA 角川書店刊／いなり製作委員会 / © 京都府 まゆまろ 13176 / © 2013 City of Kyoto. All rights reserved.
+* **Isuca** - 
+
+## J
+
+* **JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt Hen** - 
+* **Junketsu no Maria** - 
+* **Juuou Mujin no Fafnir** - 
+
+## K
+
+* **Kamisama Hajimemashita◎** - 
+* **Kantai Collection: KanColle** - 
+* **Koufuku Graffiti** - 
+* **Kuroko no Basket 3rd Season** - 
 
 ## M
 
-* **Magical Warfare** - © スズキヒサシ／株式会社KADOKAWA　メディアファクトリー刊／すばる魔法学院
-* **Maken-ki Two** - © 2013 Hiromitsu Takeda/PUBLISHED BY KADOKAWA Fujimishobo/MAKEN-KI TWO Partners
-* **Mikakunin DE Shinkoukei** - © 荒井チェリー／一迅社・未確認で進行形製作委員会
+* **Military!** - 
+* **Minna Atsumare! Falcom Gakuen SC** - 
 
-## N
+## R
 
-* **Nisekoi** - © 古味直志／集英社・アニプレックス・シャフト・ＭＢＳ
-* **Nobunaga the Fool** - © 河森正治・サテライト／ALC／GP／ノブナガ・ザ・フール製作委員会
-* **Nobunagun** - © 久正人 ／アース・スター エンターテイメント・「ノブナガン製作委員会」
-* **Noragami** - © Adachitoka/Kodansha/Noragami Production Committee
-* **No-rin** - © 2014 白鳥士郎・SBクリエイティブ／のうりんプロジェクト
+* **Rolling☆Girls** - 
 
 ## S
 
-* _**Saikin, Imouto no Yousu ga Chotto Okashiinda ga.**_ - © Mari Matsuzawa, Kadokawa Fujimi Shobo/ImoCho. Production Committee
-* **Saki: Zenkoku-hen** - © 小林 立/スクウェアエニックス・咲全国編製作委員会
-* **Sakura Trick** - © タチ・芳文社／桜Trick製作委員会
-* **Seitokai Yakuindomo*** - © 氏家ト全・講談社/桜才学園生徒会新室
-* **Sekai Seifuku: Bouryaku no Zvezda** - © hunting cap brothers/Aniplex,Project ZP
-* **Super Sonico the Animation** - © Nitroplus/そにアニProject
-* **Space Dandy** - ©2014 BONES / Project SPACE DANDY
+* **Saenai Heroine no Sodatekata** - 
+* **Seiken Tsukai no World Break** - 
+* **Sengoku Musou** - 
+* **Shinmai Maou no Testament** - 
+* **Shounen Hollywood: Holly Stage for 50** - 
+* **Soukyuu no Fafner: Dead Aggressor - Exodus** - 
 
 ## T
 
-* **Toaru Hikūshi e no Koiuta** - © Koroku Inumura, Shogakukan/Toaru Hikūshi e no Koiuta Project
-
-## W
-
-* **Wake Up, Girls!** - © Green Leaves / Wake Up, Girls! Partners
-* **Witch Craft Works** - © 水薙竜・講談社／ウィッチクラフトワークス製作委員会
-* **Wizard Barristers - Benmashi Cecil** - © ウィザード・バリスターズ
-
-## Z
-
-* **Z/X Ignition** - © Z/X IGNITION製作委員会
+* **Tantei Kageki Milky Holmes TD** - 
+* **The IDOLM@STER: Cinderella Girls** -
+* **Tokyo Ghoul √A** - 
+* **Tsukimonogatari: Yotsugi Doll** - 
+* **Yoru no Yatterman** - 
+* **Yuri Kuma Arashi** - 
