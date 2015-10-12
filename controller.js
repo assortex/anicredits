@@ -178,7 +178,6 @@ AniCredits.controller('DisplayPanel', function ($scope) {
 	{'title': 'Kagewani','credit': '© Copyright Tomovies,LLC / DIRECTIONS,Inc'},
 	{'title': 'Kamisama Minarai: Himitsu no Cocotama','credit': 'Copyright© BANDAI Co.LTD. All Rights Reserved. / © BANDAI/TV TOKYO・ここたま製作委員会'},
 	{'title': 'Ketsuekigata-kun! 3rd Season','credit': '© LEEONSMART / アース・スター エンターテイメント / 血液型くん! 製作委員会'},
-	{'title': 'Kidou Senshi Gundam: Tekketsu no Orphans','credit': '© 創通・サンライズ・MBS'},
 	{'title': 'Kindaichi Shounen no Jikenbo Returns (2015)','credit': '© 天樹征丸・さとうふみや・講談社／読売テレビ・東映アニメーション'},
 	{'title': 'Komori-san wa Kotowarenai!','credit': ''},
 	{'title': 'Kowabon','credit': ''},
