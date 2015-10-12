@@ -233,6 +233,7 @@ AniCredits.controller('DisplayPanel', function ($scope) {
 	{'title': 'ALDNOAH.ZERO','credit': ' ©Olympus Knights/Aniplex,Project AZ'},
 	{'title': 'GOD EATER','credit': '©BNEI / PROJECT G.E.'},
 	{'title': 'Classroom Crisis','credit': '©2015 CC PROJECT'},
+	{'title': 'LoveLive! School idol project','credit': '©2013 PROJECT LoveLive!'},
 	{'title': 'WORKING!!3','credit': '©Karino Takatsu/SQUARE ENIX, "WORKING!!3" Project'},
 	{'title': 'Gunslinger Stratos','credit': '©2015 SQUARE ENIX/GUNS PROJECT'},
 	{'title': 'Everyday Life with Monster Girls','credit': '©2015 OKAYADO/TOKUMA SHOTEN・MONMUSU PARTNERS All Rights Reserved.'},
