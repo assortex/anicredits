@@ -1,11 +1,12 @@
-<!DOCTYPE html>
-<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
-    <head>
-<meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>anicredits &raquo; Jay Agonoy</title>
+<!DOCTYPE HTML>
+<html lang="en" ng-app="AniCredits">
+	<head>
+	  <meta charset="utf-8">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>anicredits &raquo; Jay Agonoy</title>
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-		<meta name="description" content="Hobbyist since 2007.">
+		<meta name="description" content="A list of copyright text ready to be pasted in anything that needs attribution.">
 		<meta name="og:type" content="website" />
 		<meta name="og:url" content="http://jay.is-super.moe/anicredits" />
 		<meta name="og:title" content="Jay Agonoy" />
@@ -14,21 +15,13 @@
 		<link rel="me" href="http://plus.google.com/+JayAgonoy" />
 		<link rel="author" href="https://www.facebook.com/assortexjay" />
 		<meta name="twitter:creator" content="@assortex" />
-		<meta name="profile:first_name" content="Jay" />
-		<meta name="profile:last_name" content="Agonoy" />
-		<meta name="profile:gender" content="male" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.22.0/css/uikit.min.css" />
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.22.0/js/uikit.min.js"></script>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.22.0/css/components/slideshow.gradient.min.css" />   
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.22.0/css/components/tooltip.gradient.min.css" />
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.22.0/js/components/tooltip.min.js"></script>
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.22.0/css/components/slideshow.gradient.min.css" />
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.22.0/js/components/slideshow.min.js"></script>
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.22.0/css/components/sticky.min.css" />
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.22.0/js/components/sticky.min.js"></script>
-    </head>
-<body itemscope itemtype="http://schema.org/Person">
+		<link href='https://cdnjs.cloudflare.com/ajax/libs/uikit/2.22.0/css/uikit.min.css' rel='stylesheet' type='text/css'>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.6/angular.js"></script>
+		<script src="controller.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.22.0/js/uikit.min.js"></script>
+	</head>
+	<body ng-controller="DisplayPanel">
 		<nav class="uk-navbar uk-navbar-attached" data-uk-sticky style="z-index:1000">
 			<div class="uk-container uk-container-center">
 				<a class="uk-navbar-brand" href="/"><img itemprop name="name" class="uk-navbar-content" src="/images/logo.png" alt="Jay Agonoy" /></a>
@@ -47,27 +40,46 @@
 		</div>
 
         <div class="uk-block uk-block-large uk-block-secondary uk-contrast" id="profile" style="background: url('/images/background.jpg') repeat rgba(0, 0, 0, 0.5) scroll 0% 0%; background-blend-mode: hard-light;">
-			<div class="uk-container uk-container-center  uk-width-3-4 uk-grid">
-                <div class="uk-width-medium-1-2">
-					<h2 class="uk-h3">2014</h2>
-						<ul>
-							<li>Winter</li>
-							<li>Spring</li>
-							<li>Summer</li>
-							<li>Fall</li>
-						</ul>
-                </div>
-                <div class="uk-width-medium-1-2">
-					<h2 class="uk-h3">2015</h2>
-					<ul>
-						<li>Winter</li>
-						<li>Spring</li>
-						<li>Fall</li>
-					</ul>
-                </div>
+			<div class="uk-container uk-container-center uk-grid">
+				<div class="uk-container-center">
+					<div class="uk-form-icon">
+						<form class="uk-form uk-form-icon uk-width-1-1">
+							<i class="uk-icon-search"></i>
+							<input class="uk-form-large uk-form-width-large uk-width-1-1" type="text" placeholder="Search " ng-model="query">
+						</form>
+					</div>
+				</div>                
             </div>
 		</div>		
 
+        <div class="uk-container uk-container-center uk-margin-top uk-margin-large-bottom">
+			<div class="uk-container uk-width-1-1">
+				<form class="uk-form uk-margin-top uk-container-center uk-visible-small">
+					<input type="text" class="uk-width-1-1" placeholder="Search Events" ng-model="query">
+				</form>
+			</div>
+            <div class="uk-grid" data-uk-grid-margin>
+                <div class="uk-width-3-4 uk-container-center uk-margin-top uk-overflow-container">
+					<table class="uk-table uk-table-hover uk-table-striped uk-form">
+						<thead>
+							<tr>
+								<th class="uk-text-center uk-width-4-10">Title</th>
+								<th class="uk-text-center uk-width-3-10">Attribution</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr ng-repeat="event in events | filter:query">
+								<td><strong>{{event.title}}</strong></td>
+								<td class="uk-container-center uk-text-center">
+									<input type="text" class="uk-form-width-large uk-disabled" value="{{event.credit}}" ></input>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+                </div>
+            </div>
+        </div>
+		<hr class="uk-grid-divider" />
 		<footer class="uk-grid uk-margin-large" data-uk-grid-margin="">
 			<div class="uk-width-4-5 uk-container-center">
 				<div class="uk-panel uk-text-center">
@@ -80,8 +92,6 @@
 						Thanks to <a href="http://twitter.com/acostoss" target="_blank"><i class="uk-icon-twitter"></i>@acostoss</a> for the domain, <a href="http://getuikit.com" target="_blank">UIKit</a> for the framework and <a href="http://github.com" target="_blank"><i class="uk-icon-github"></i> GitHub</a> for the hosting.</p>
 				</div>
 			</div>
-		</footer>
-			
-    
-</body>
+		</footer>	
+	</body>
 </html>
