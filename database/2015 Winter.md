@@ -69,5 +69,7 @@
 * **The IDOLM@STER: Cinderella Girls** - ©BNGI / PROJECT CINDERELLA
 * **Tokyo Ghoul √A** - © Sui Ishida/Shueisha,Tokyo Ghoul Production Committee
 * **Tsukimonogatari: Yotsugi Doll** - ©西尾維新／講談社・アニプレックス・シャフト
+
+## Y
 * **Yoru no Yatterman** - ©タツノコプロ・夜ノヤッターマン製作委員会 2015
 * **Yuri Kuma Arashi** - （C）2015 イク二ゴマモナカ/ユリクマ二クル
