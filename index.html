@@ -32,9 +32,10 @@
             <div class="uk-grid" data-uk-grid-margin>
                 <div class="uk-width-1-1">
                     <h1 class="uk-heading-large">anicredits</h1>
-					<p>A list of copyright text ready to be pasted in anything that needs attribution.</p>
-                    <p class="uk-text-large">I took up a list of copyright credit text as part of my blogging stint, but now I want to expand it from a side-project to something of a web application.</p>
-                    <p class="uk-text-large">These are a set of markdown files that are available on my Github for everyone to see, use and contribute to.</p>
+					<p class="uk-h2">A list of copyright text ready to be pasted in anything that needs attribution.</p>
+                    <p>I took up a list of copyright credit text as part of my blogging stint, but now I want to expand it from a side-project to something of a web application.</p>
+                    <p>These are a set of markdown files that are available on my <i class="uk-icon-github"></i> <a href="http://github.com/assortex/anicredits" target="_blank">Github <i class="uk-icon-external-link"></i></a> for everyone to see, use and contribute to.</p>
+                    <p>Just a disclaimer: Not all information here is accurate, so I need everyone's help and cooperation. Let's make this side-project better!</p>
                 </div>
             </div>			
 		</div>
@@ -45,7 +46,7 @@
 					<div class="uk-form-icon">
 						<form class="uk-form uk-form-icon uk-width-1-1">
 							<i class="uk-icon-search"></i>
-							<input class="uk-form-large uk-form-width-large uk-width-1-1" type="text" placeholder="Search " ng-model="query">
+							<input class="uk-form-large uk-form-width-large uk-width-1-1" type="text" placeholder="Search Title" ng-model="query">
 						</form>
 					</div>
 				</div>                
@@ -68,7 +69,8 @@
 							</tr>
 						</thead>
 						<tbody>
-							<tr ng-repeat="event in events | filter:query | orderBy:'title'">
+							<tr ng-repeat="event in events | filter:query | orderBy:'title
+							'">
 								<td><strong>{{event.title}}</strong></td>
 								<td class="uk-container-center uk-text-center">
 									<input type="text" class="uk-form-width-large uk-disabled" value="{{event.credit}}" readonly></input>
