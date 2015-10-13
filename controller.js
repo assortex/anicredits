@@ -245,6 +245,7 @@ AniCredits.controller('DisplayPanel', function ($scope) {
 	{'title': 'Blood Blockade Battlefront','credit': '©2015 Yasuhiro Nightow/Shueisha,Blood Blockade Battlefront Project','site':'http://kekkaisensen.com/'},
 	{'title': 'Kanon','credit': '©VisualArt\'s/Key/Hyakkaya','site':'http://www.tbs.co.jp/anime/kanon/'},
 	{'title': 'Air','credit': '©VisualArt\'s/Key/Angel Seekers','site':'http://www.tbs.co.jp/anime/air/'},
+	{'title': 'Garakowa -Restore the World-','credit': '©Project D. backup','site':'http://garakowa.us/'},
 	{'title': 'K-On!','credit': '© kakifly・Houbunsha /Sakura High Band','site':'http://www.tbs.co.jp/anime/k-on/'}
   ];
   $scope.title = "World";
