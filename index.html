@@ -80,7 +80,7 @@
 						<tbody>
 							<tr ng-repeat="event in events | filter:query | orderBy:'title
 							'">
-								<td><strong>{{event.title}}</strong></td>
+								<td><a href="{{event.site}}" target="_blank"><strong>{{event.title}}</strong><i class="uk-icon-esternal-link"></i></a></td>
 								<td class="uk-container-center uk-text-center">
 									<input type="text" class="uk-form-width-large uk-disabled" value="{{event.credit}}" readonly></input>
 								</td>
