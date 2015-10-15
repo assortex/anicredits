@@ -281,7 +281,7 @@ AniCredits.controller('DisplayPanel', function ($scope) {
 	{'title': 'Wakaba*Girl','credit': '©原悠衣・芳文社／白詰女子高一年藤組','site':'http://wakabagirl.com/'},
 	{'title': 'Gate: Jieitai Kanochi nite, Kaku Tatakaeri','credit': 'この番組はフィクションであり、登場する人物、団体、場所、事件等は実在のものとは一切関係ありません。c柳内たくみ・アルファポリス/ゲート製作委員会','site':'http://gate-anime.com/'},
 	{'title': 'Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai','credit': '©赤城大空・小学館／SOX','site':'http://www.shimoseka.com/'},
-	{'title': 'Charlotte','credit': '©(C)Visual Art\'s/Key/Charlotte Project','site':'http://charlotte-anime.jp/'},
+	{'title': 'Charlotte','credit': '(C)Visual Art\'s/Key/Charlotte Project','site':'http://charlotte-anime.jp/'},
 	{'title': 'Kurayami Santa','credit': '©','site':'http://www.kbc.co.jp/santa/'},
 	{'title': 'Gatchaman Crowds Insight','credit': '©TP/GCIP','site':'http://www.ntv.co.jp/GC_insight/'},
 	{'title': 'Dragon Ball Super','credit': '© バードスタジオ/集英社・フジテレビ・東映アニメーション','site':'http://www.toei-anim.co.jp/tv/dragon_s/'},
