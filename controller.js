@@ -304,7 +304,25 @@ AniCredits.controller('DisplayPanel', function ($scope) {
 	{'title': 'Kangoku Gakuen','credit': '© 平本アキラ・講談社／八光学園裏生徒会 ','site':'http://prison-anime.com/'},
 	{'title': 'Venus Project: Climax','credit': '©GALAT/FormulaVenus実行委員会','site':'http://vproject.jp/'},
 	{'title': 'Makura no Danshi','credit': '© P★P/「枕男子」製作委員会','site':'http://makuranodanshi.com/'},	
-	{'title': 'K-On!','credit': '© kakifly・Houbunsha / Sakura High Band','site':'http://www.tbs.co.jp/anime/k-on/'}
+	{'title': 'K-On!','credit': '© kakifly・Houbunsha / Sakura High Band','site':'http://www.tbs.co.jp/anime/k-on/'},
+	{'title': 'Sekkou Boys','credit': '© ザリガニワークス・KADOKAWA・ホルベイン画材／石膏ボーイズ製作委員会','site':'http://sekkoboys.com/'},
+	{'title': 'Ajin','credit': '©桜井画門・講談社／亜人管理委員会','site':'http://www.ajin.net/tv/'},
+	{'title': 'Active Raid: Kidou Kyoushuushitsu Dai-Hakkei','credit': '©創通・フィールズ・フライングドッグ／ACTIVERAID PARTNERS','site':'http://activeraid.net/'},
+	{'title': 'Boku Dake ga Inai Machi','credit': '© Kei SANBE　2015／KADOKAWA タイトルロゴ作成：星野ゆきお for VOLARE inc.','site':'http://bokumachi-anime.com/'},
+	{'title': 'Dagashi Kashi','credit': '© 2016 コトヤマ・小学館／シカダ駄菓子','site':'http://www.tbs.co.jp/anime/dagashi/'},
+	{'title': 'Dimension W','credit': '© 岩原裕二 / スクウェアエニックス・DW製作委員会','site':'http://dimension-w.net/'},
+	{'title': 'Divine Gate','credit': '© GungHo Online Entertainment,Inc.／Divine Gate World Council','site':'http://www.marv.jp/special/divinegate/'},
+	{'title': 'Hai to Gensou no Grimgar','credit': '© 2016 十文字青・オーバーラップ／灰と幻想のグリムガル製作委員会','site':'http://grimgar.com/'},
+	{'title': 'HaruChika: Haruta to Chika wa Seishun Suru','credit': '© 2016 初野晴／KADOKAWA／ハルチカ製作委員会','site':'http://haruchika-anime.jp/'},
+	{'title': 'Kono Subarashii Sekai ni Shukufuku wo!','credit': '© 2016 暁なつめ・三嶋くろね／ＫＡＤＯＫＡＷＡ／このすば製作委員会','site':'http://konosuba.com/'},
+	{'title': 'Musaigen no Phantom World','credit': '©秦野宗一郎・京都アニメーション/無彩限のファントム・ワールド製作委員会','site':'http://phantom-world.com/'},
+	{'title': 'Nijiiro Days','credit': '© 水野美波／集英社 © 水野美波／集英社・「虹色デイズ」プロジェクト','site':'http://rainbow-days.tv/'},
+	{'title': 'Nurse Witch Komugi-chan R','credit': '©タツノコプロ／小麦ちゃんＲ 製作委員会','site':'http://www.ntv.co.jp/komugir/'},
+	{'title': 'Prince of Stride: Alternative','credit': '© 2015 FiFS／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス刊／POSA製作委員会','site':'http://pos-a.jp/'},
+	{'title': 'Saijaku Muhai no Bahamut','credit': '©明月千里・SBクリエイティブ／最弱無敗の製作委員会','site':'http://saijaku.jp/'},
+	{'title': 'Shoujo-tachi wa Kouya wo Mezasu','credit': '©みなとそふと／しょこめざ製作委員会','site':'http://shokomeza.com/'},
+	{'title': 'Schwarzesmarken','credit': '©吉宗鋼紀・ixtl/オルタネイティヴ第二計画','site':'http://schwarzesmarken-anime.jp/'},
+	{'title': 'Shouwa Genroku Rakugo Shinjuu','credit': '© 雲田はるこ・講談社／落語心中協会','site':'http://rakugo-shinju-anime.jp/'}
   ];
   $scope.title = "World";
 });
