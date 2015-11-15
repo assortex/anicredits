@@ -104,7 +104,7 @@ AniCredits.controller('DisplayPanel', function ($scope) {
 	{'title': 'Tokyo ESP','credit': '©2014 瀬川はじめ／KADOKAWA角川書店刊／[東京ESP]製作委員会','site':'http://www.tokyo-esp.org/'},
 	{'title': 'Tokyo Ghoul','credit': '©石田スイ／集英社・東京喰種製作委員会','site':'http://www.marv.jp/special/tokyoghoul'},
 	{'title': 'Yama no Susume','credit': '©しろ / アース・スター エンターテイメント','site':'http://yamanosusume.com/'},
-	{'title': 'Zankyou no Terror','credit': '©残響のテロル製作委員会 _このホームページに掲載されている一切の文書・図版・写真等を、手段や形態を問わず複製、転載することを禁じます','site':'http://terror-in-tokyo.com/'},
+	{'title': 'Zankyou no Terror','credit': '©TERROR IN RESONANCE Committee','site':'http://terror-in-tokyo.com/'},
 	{'title': 'Kyoukai no Kanata','credit': '© Kyoto Animation','site':'http://tv.anime-kyokai.com/'},
 	{'title': 'Yuru Yuri','credit': '© Ichijinsha / Dogakobo','site':'http://www.yuruyuri.com/'},
 	{'title': 'Yuru Yuri 3','credit': '© Ichijinsha / TYO Animations','site':'http://www.yuruyuri.com/'},
@@ -322,6 +322,7 @@ AniCredits.controller('DisplayPanel', function ($scope) {
 	{'title': 'Saijaku Muhai no Bahamut','credit': '©明月千里・SBクリエイティブ／最弱無敗の製作委員会','site':'http://saijaku.jp/'},
 	{'title': 'Shoujo-tachi wa Kouya wo Mezasu','credit': '©みなとそふと／しょこめざ製作委員会','site':'http://shokomeza.com/'},
 	{'title': 'Schwarzesmarken','credit': '©吉宗鋼紀・ixtl/オルタネイティヴ第二計画','site':'http://schwarzesmarken-anime.jp/'},
+	{'title': 'Gintama','credit': '© Shueisha / Sunrise / Bandai Namco Pictures','site':'http://www.tv-tokyo.co.jp/anime/gintama'},
 	{'title': 'Shouwa Genroku Rakugo Shinjuu','credit': '© 雲田はるこ・講談社／落語心中協会','site':'http://rakugo-shinju-anime.jp/'}
   ];
   $scope.title = "World";
