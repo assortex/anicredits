@@ -14,7 +14,7 @@
 		<meta name="og:image" content="image.jpg" />
 		<link rel="me" href="http://plus.google.com/+JayAgonoy" />
 		<link rel="author" href="https://www.facebook.com/assortexjay" />
-		<meta name="twitter:creator" content="@assortex" />
+		<meta name="twitter:creator" content="@JayAgonoy" />
 		<link href='https://cdnjs.cloudflare.com/ajax/libs/uikit/2.22.0/css/uikit.min.css' rel='stylesheet' type='text/css'>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.6/angular.js"></script>
 		<script src="controller.js"></script>
@@ -39,9 +39,9 @@
                     <p>I took up a list of copyright credit text as part of my blogging stint, but now I want to expand it from a side-project to something of a web application.</p>
                     <p>Not all information here is accurate, so I need everyone's help and cooperation. Let's make this side-project better! You can pull the Github repo and check out the <code>controller.js</code> which contains the database itself. If you are not into Git. you can request titles by tweeting me.</p>
 					<p class="uk-container-center uk-width-3-4 uk-text-center">
-						<a class="uk-button uk-button-primary uk-button-large" href="https://medium.com/@assortex/why-i-did-anicredits-a5b865971953?source=your-stories" target="_blank">Read more about anicredits <i class="uk-icon-external-link"></i></a>
+						<a class="uk-button uk-button-primary uk-button-large" href="https://medium.com/@JayAgonoy/why-i-did-anicredits-a5b865971953?source=your-stories" target="_blank">Read more about anicredits <i class="uk-icon-external-link"></i></a>
 						<br class="uk-grid-divider"/>
-						<a href="https://twitter.com/intent/tweet?screen_name=assortex" class="twitter-mention-button" data-size="large" data-related="assortex" data-dnt="true">Tweet to @assortex</a>
+						<a href="https://twitter.com/intent/tweet?screen_name=JayAgonoy" class="twitter-mention-button" data-size="large" data-related="assortex" data-dnt="true">Tweet to @JayAgonoy</a>
 						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 						
 						<!-- Place this tag where you want the button to render. -->
@@ -84,7 +84,7 @@
 						<tbody>
 							<tr ng-repeat="event in events | filter:query | orderBy:'title
 							'">
-								<td><a href="{{event.site}}" target="_blank"><strong>{{event.title}}</strong> <i class="uk-icon-external-link"></i></a></td>
+								<td><a ng-href="{{event.site}}" target="_blank"><strong ng-bind="event.title"></strong> <i class="uk-icon-external-link"></i></a></td>
 								<td class="uk-container-center uk-text-center">
 									<input type="text" class="uk-form-width-large uk-disabled" value="{{event.credit}}" readonly></input>
 								</td>
