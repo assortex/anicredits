@@ -74,15 +74,17 @@
 						<thead class="">
 							<tr class="">
 								<th class="col-5">Title</th>
-								<th class="col-7">Attribution</th>
+								<th class="col-6">Attribution</th>
+								<th class="col-1">Twitter @</th>
 							</tr>
 						</thead>
 						<tbody>
 							<tr ng-repeat="event in events | filter:query | orderBy:'title'">
-								<td><a ng-href="{{event.site}}" target="_blank"><strong ng-bind="event.title"></strong></td>
+								<td><a ng-href="{{event.site}}" target="_blank"><strong ng-bind="event.title"></strong></a></td>
 								<td>
 									<input type="text" class="form-control" value="{{event.credit}}" readonly onClick="this.select();"></input>
 								</td>
+								<td><a ng-href="http://twitter.com/{{event.twitter}}" target="_blank">@<i ng-bind="event.twitter"></a></td>
 							</tr>
 						</tbody>
 					</table>
