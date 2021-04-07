@@ -4,8 +4,8 @@ function newFunction() {
 
 	AniCredits.controller('DisplayPanel', function ($scope) {
 		$scope.events = [
-			{ 'title': '100-Nichikan Ikita Wani', 'credit': '©2021「100日間生きたワニ」製作委員会', 'site': 'https://100wani-movie.com/', 'twitter': '100waniOfficial'},
-			{ 'title': '6 LOVERS', 'credit': '©おげれつたなか・左京亜也・ 志水ゆき・宝井理人・夏目イサク・門地かおり ／ 新書館', 'site': 'https://www.clubmail.jp/6_lovers.html', 'twitter': ''},
+			{ 'title': '100-Nichikan Ikita Wani', 'credit': '©2021「100日間生きたワニ」製作委員会', 'site': 'https://100wani-movie.com/', 'twitter': '100waniOfficial'}
+			{ 'title': '6 LOVERS', 'credit': '©おげれつたなか・左京亜也・ 志水ゆき・宝井理人・夏目イサク・門地かおり ／ 新書館', 'site': 'https://www.clubmail.jp/6_lovers.html', 'twitter': 'N/A'},
 			{ 'title': '86: Eighty Six', 'credit': '©2020 安里アサト/KADOKAWA/Project-86', 'site': 'https://anime-86.com/', 'twitter': 'anime_eightysix'},
 			{ 'title': 'Aka-chan Honbuchou', 'credit': '©竹内佐千子・講談社／ＮＨＫ・ＮＥＰ・テレコムスタッフ', 'site': 'https://www.nhk.jp/p/ts/7PR67N6RJ8/', 'twitter': 'akachanhonbucho'},
 			{ 'title': 'Bakugan: Geogan Rising', 'credit': '©S/T/N/BGR PROJECT', 'site': 'http://www.bakugan.jp/', 'twitter': 'bakugan_jp'},
@@ -83,13 +83,16 @@ function newFunction() {
 			{ 'title': 'Tropical-Rouge! Precure Petit Tobikome! Collabo♡Dance Party!', 'credit': '©2020 映画ヒーリングっど♡プリキュア製作委員会', 'site': 'https://2021spring.precure-movie.com/pc/', 'twitter': 'precure_movie'},
 			{ 'title': 'Uchuu Nanchara Kotetsu-kun', 'credit': '©2021 Space Academy/ちょっくら月まで委員会', 'site': 'Space__Academy', 'twitter': 'Space__Academy'},
 			{ 'title': 'Vivy: Fluorite Eye’s Song', 'credit': '©Vivy Score / アニプレックス・WIT STUDIO', 'site': 'https://vivy-portal.com/', 'twitter': 'vivy_portal'},
-			{ 'title': 'Washimo 9', 'credit': '© 宮藤官九郎・安齋肇・小学館／NHK・NEP', 'site': 'http://www9.nhk.or.jp/anime/wasimo/', 'twitter': ''},
+			{ 'title': 'Washimo 9', 'credit': '© 宮藤官九郎・安齋肇・小学館／NHK・NEP', 'site': 'http://www9.nhk.or.jp/anime/wasimo/', 'twitter': 'N/A'},
 			{ 'title': 'Yakunara Mug Cup Mo', 'credit': '©プラネット・日本アニメーション／やくならマグカップも製作委員会', 'site': 'https://yakumo-project.com/', 'twitter': 'yakumo_project'},
 			{ 'title': 'Yasuke', 'credit': '© 2021 NETFLIX', 'site': 'https://www.netflix.com/yasuke', 'twitter': 'NetflixJP_Anime'},
 			{ 'title': 'Youkai Watch ♪', 'credit': '©LEVEL-5/妖怪ウォッチ♪プロジェクト・テレビ東京', 'site': 'https://www.tv-tokyo.co.jp/anime/youkai-watch2021/', 'twitter': 'eiga_yokai'},
 			{ 'title': 'Yuuki Yuuna wa Yuusha de Aru Churutto!', 'credit': '©2021 Project 2H', 'site': 'http://yuyuyu.tv/churutto/', 'twitter': 'anime_yukiyuna'},
 			{ 'title': 'Yuukoku no Moriarty Part 2', 'credit': '©竹内良輔・三好 輝／集英社・憂国のモリアーティ製作委員会', 'site': 'https://moriarty-anime.com/', 'twitter': 'moriarty_anime'},
-			{ 'title': 'Zombie Land Saga: Revenge', 'credit': '©ZOMBIE LAND SAGA REVENGE PARTNERS', 'site': 'https://zombielandsaga.com/', 'twitter': 'zombielandsaga'}			
+			{ 'title': 'Zombie Land Saga: Revenge', 'credit': '©ZOMBIE LAND SAGA REVENGE PARTNERS', 'site': 'https://zombielandsaga.com/', 'twitter': 'zombielandsaga'},
+			{ 'title': 'Back Arrow', 'credit': '©谷口悟朗・中島かずき・ANIPLEX／バック・アロウ製作委員会', 'site': 'https://back-arrow.com/', 'twitter': 'backarrow_info'},
+			{ 'title': 'Kingdom 3rd Season', 'credit': '©原泰久／集英社・キングダム製作委員会', 'site': 'https://kingdom-anime.com/', 'twitter': 'kingdom_animePR'},
+			{ 'title': 'Kumo Desu ga, Nani ka?', 'credit': '©Okina BABA,Tsukasa KIRYU/PUBLISHED BY KADOKAWA/So I\'m a Spider, So What? PARTNERS', 'site': 'https://kumo-anime.com/', 'twitter': 'kumoko_anime'}			
 		];
 		$scope.title = "World";
 	});
