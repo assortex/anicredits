@@ -4,7 +4,7 @@ function newFunction() {
 
 	AniCredits.controller('DisplayPanel', function ($scope) {
 		$scope.events = [
-			{ 'title': '100-Nichikan Ikita Wani', 'credit': '©2021「100日間生きたワニ」製作委員会', 'site': 'https://100wani-movie.com/', 'twitter': '100waniOfficial'}
+			{ 'title': '100-Nichikan Ikita Wani', 'credit': '©2021「100日間生きたワニ」製作委員会', 'site': 'https://100wani-movie.com/', 'twitter': '100waniOfficial'},
 			{ 'title': '6 LOVERS', 'credit': '©おげれつたなか・左京亜也・ 志水ゆき・宝井理人・夏目イサク・門地かおり ／ 新書館', 'site': 'https://www.clubmail.jp/6_lovers.html', 'twitter': 'N/A'},
 			{ 'title': '86: Eighty Six', 'credit': '©2020 安里アサト/KADOKAWA/Project-86', 'site': 'https://anime-86.com/', 'twitter': 'anime_eightysix'},
 			{ 'title': 'Aka-chan Honbuchou', 'credit': '©竹内佐千子・講談社／ＮＨＫ・ＮＥＰ・テレコムスタッフ', 'site': 'https://www.nhk.jp/p/ts/7PR67N6RJ8/', 'twitter': 'akachanhonbucho'},
